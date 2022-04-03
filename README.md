@@ -1,5 +1,8 @@
 # vue-task-manager
 
+### Project Summary
+A simple vuejs app to manage tasks without json backend and non-persistent storage
+
 ## Project setup
 ```
 yarn install
